@@ -1,0 +1,2 @@
+# chars
+rust password maker
